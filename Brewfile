@@ -7,6 +7,7 @@ cask air-video-server-hd
 cask appcleaner
 cask atom
 cask backuploupe
+cask bathyscaphe
 cask cocoapacketanalyzer
 cask cooviewer
 cask coteditor
@@ -66,7 +67,7 @@ brew colordiff
 brew coreutils
 brew doxygen
 brew fdk-aac
-brew ffmpeg --with-fdk-aac --with-libass --with-x265 --with-fontconfig --with-freetype --with-opus --HEAD
+brew ffmpeg
 brew fish --HEAD
 brew flac
 brew fontconfig
