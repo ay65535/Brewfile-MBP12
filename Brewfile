@@ -41,6 +41,7 @@ tap caskroom/fonts
 cask font-source-han-code-jp
 
 tap caskroom/versions
+cask android-studio-canary
 cask camtwist-beta
 cask clipmenu-alpha
 cask firefoxdeveloperedition
