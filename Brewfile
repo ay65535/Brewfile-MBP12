@@ -43,9 +43,10 @@ cask font-source-han-code-jp
 tap caskroom/versions
 cask android-studio-canary
 cask camtwist-beta
-cask clipmenu-alpha
+cask clipmenu-dev
 cask firefoxdeveloperedition
 cask google-chrome-canary
+cask google-japanese-ime-dev
 cask intellij-idea-eap
 cask iterm2-nightly
 cask microsoft-remote-desktop-beta
