@@ -11,7 +11,6 @@ cask bathyscaphe
 cask cocoapacketanalyzer
 cask cooviewer
 cask coteditor
-cask disk-inventory-x
 cask dupscanub
 cask evernote
 cask github-desktop
@@ -46,7 +45,6 @@ cask camtwist-beta
 cask clipmenu-dev
 cask firefoxdeveloperedition
 cask google-chrome-canary
-cask google-japanese-ime-dev
 cask intellij-idea-eap
 cask iterm2-nightly
 cask microsoft-remote-desktop-beta
@@ -65,6 +63,7 @@ brew bdw-gc
 brew boost
 brew brew-cask-completion
 brew cairo
+brew carthage
 brew colordiff
 brew coreutils
 brew doxygen
