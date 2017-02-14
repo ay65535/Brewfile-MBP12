@@ -116,6 +116,7 @@ brew pcre
 brew pcre2
 brew pixman
 brew pkg-config
+brew putty
 brew readline
 brew texi2html
 brew tmux
@@ -140,7 +141,7 @@ tap sanemat/font
 # App Store applications
 appstore 425264550 Blackmagic Disk Speed Test (3.0)
 appstore 1024640650 CotEditor (3.1.3)
-appstore 682658836 GarageBand (10.1.5)
+appstore 682658836 GarageBand (10.1.6)
 appstore 409183694 Keynote (7.0.5)
 appstore 896624060 Kobito (2.3.8)
 appstore 539883307 LINE (4.11.1)
