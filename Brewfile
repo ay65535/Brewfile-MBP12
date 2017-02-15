@@ -132,6 +132,7 @@ brew youtube-dl
 brew zplug --with-zsh --HEAD
 brew zsh
 brew zsh-completions
+brew reattach-to-user-namespace
 
 tap rcmdnk/file
 brew brew-file
