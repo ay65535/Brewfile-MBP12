@@ -16,6 +16,7 @@ cask evernote
 cask github-desktop
 cask google-chrome
 cask google-drive
+cask google-japanese-ime
 cask launchcontrol
 cask macwinzipper
 cask mediainfo
@@ -29,6 +30,7 @@ cask skitch
 cask skype
 cask soundflower
 cask sourcetree
+cask sublime-text
 cask textwrangler
 cask the-unarchiver
 cask virtualbox-extension-pack
