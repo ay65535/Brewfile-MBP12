@@ -143,7 +143,6 @@ tap sanemat/font
 
 # App Store applications
 appstore 425264550 Blackmagic Disk Speed Test (3.0)
-appstore 1024640650 CotEditor (3.1.3)
 appstore 682658836 GarageBand (10.1.6)
 appstore 408981434 iMovie (10.1.4)
 appstore 409183694 Keynote (7.0.5)
