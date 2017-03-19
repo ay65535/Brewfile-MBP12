@@ -31,7 +31,6 @@ cask skype
 cask soundflower
 cask sourcetree
 cask sublime-text
-cask textwrangler
 cask the-unarchiver
 cask virtualbox-extension-pack
 cask virtualbox
@@ -140,6 +139,11 @@ tap rcmdnk/file
 brew brew-file
 
 tap sanemat/font
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask textwrangler (!)
 
 # App Store applications
 appstore 425264550 Blackmagic Disk Speed Test (3.0)
