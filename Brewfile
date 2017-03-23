@@ -38,6 +38,7 @@ cask vlc
 cask xld
 
 tap caskroom/fonts
+cask font-consolas-for-powerline
 cask font-source-han-code-jp
 
 tap caskroom/versions
@@ -118,8 +119,10 @@ brew pcre2
 brew pixman
 brew pkg-config
 brew putty
+brew python
 brew readline
 brew reattach-to-user-namespace
+brew sqlite
 brew texi2html
 brew tmux
 brew tree
@@ -152,13 +155,13 @@ appstore 408981434 iMovie (10.1.4)
 appstore 409183694 Keynote (7.0.5)
 appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000012000)
-appstore 539883307 LINE (4.12.1)
+appstore 539883307 LINE (4.12.2)
 appstore 715768417 Microsoft Remote Desktop (8.0.27253)
 appstore 409203825 Numbers (4.0.5)
 appstore 823766827 OneDrive (17.3.6798)
 appstore 409201541 Pages (6.0.5)
 appstore 568494494 Pocket (1.6.2)
 appstore 485812721 TweetDeck (3.9.889)
-appstore 409789998 Twitter (4.2.4)
+appstore 409789998 Twitter (4.3.2)
 appstore 645249778 Twitter Scripter (1.01)
 appstore 497799835 Xcode (8.2.1)
