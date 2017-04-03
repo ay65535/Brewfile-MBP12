@@ -143,10 +143,8 @@ brew brew-file
 
 tap sanemat/font
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask textwrangler (!)
+# Cask applications
+cask textwrangler
 
 # App Store applications
 appstore 425264550 Blackmagic Disk Speed Test (3.0)
