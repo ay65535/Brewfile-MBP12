@@ -8,6 +8,7 @@ cask appcleaner
 cask atom
 cask backuploupe
 cask bathyscaphe
+cask bbedit
 cask cocoapacketanalyzer
 cask cooviewer
 cask coteditor
@@ -143,21 +144,14 @@ brew brew-file
 
 tap sanemat/font
 
-# Cask applications
-cask textwrangler
-
 # App Store applications
 appstore 425264550 Blackmagic Disk Speed Test (3.0)
 appstore 682658836 GarageBand (10.1.6)
-appstore 408981434 iMovie (10.1.5)
-appstore 409183694 Keynote (7.1)
 appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000012000)
 appstore 539883307 LINE (5.1.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.27253)
-appstore 409203825 Numbers (4.1)
 appstore 823766827 OneDrive (17.3.6798)
-appstore 409201541 Pages (6.1)
 appstore 568494494 Pocket (1.6.2)
 appstore 485812721 TweetDeck (3.9.889)
 appstore 409789998 Twitter (4.3.2)
