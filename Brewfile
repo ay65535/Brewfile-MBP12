@@ -19,6 +19,8 @@ cask google-chrome
 cask google-drive
 cask google-japanese-ime
 cask launchcontrol
+cask libreoffice-language-pack
+cask libreoffice
 cask macwinzipper
 cask mediainfo
 cask mplayer-osx-extended
