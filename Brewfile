@@ -23,6 +23,7 @@ cask libreoffice-language-pack
 cask libreoffice
 cask macwinzipper
 cask mediainfo
+cask mesasqlite
 cask mplayer-osx-extended
 cask mplayerx
 cask musescore
@@ -33,6 +34,9 @@ cask skitch
 cask skype
 cask soundflower
 cask sourcetree
+cask sqlitebrowser
+cask sqlitemanager
+cask sqlpro-for-sqlite
 cask sublime-text
 cask the-unarchiver
 cask virtualbox-extension-pack
