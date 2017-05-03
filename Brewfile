@@ -39,6 +39,7 @@ cask sqlitemanager
 cask sqlpro-for-sqlite
 cask sublime-text
 cask the-unarchiver
+cask veertu-desktop
 cask virtualbox-extension-pack
 cask virtualbox
 cask vlc
@@ -75,7 +76,7 @@ brew coreutils
 brew doxygen
 brew fdk-aac
 brew ffmpeg
-brew fish --HEAD
+brew fish
 brew flac
 brew fontconfig
 brew freetype
@@ -128,7 +129,7 @@ brew readline
 brew reattach-to-user-namespace
 brew sqlite
 brew texi2html
-brew tmux --HEAD
+brew tmux
 brew tree
 brew w3m
 brew wget
