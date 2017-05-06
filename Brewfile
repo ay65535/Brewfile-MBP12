@@ -149,11 +149,6 @@ brew brew-file
 
 tap sanemat/font
 
-# Cask applications
-cask clipmenu-dev
-cask intellij-idea-eap
-cask webstorm-eap
-
 # App Store applications
 appstore 425264550 Blackmagic Disk Speed Test (3.0)
 appstore 682658836 GarageBand (10.1.6)
