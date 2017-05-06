@@ -9,6 +9,7 @@ cask atom
 cask backuploupe
 cask bathyscaphe
 cask bbedit
+cask clipy
 cask cocoapacketanalyzer
 cask cooviewer
 cask coteditor
