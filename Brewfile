@@ -40,6 +40,7 @@ cask sqlitemanager
 cask sqlpro-for-sqlite
 cask sublime-text
 cask the-unarchiver
+cask tripmode
 cask veertu-desktop
 cask virtualbox-extension-pack
 cask virtualbox
