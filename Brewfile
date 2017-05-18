@@ -151,7 +151,7 @@ brew brew-file
 tap sanemat/font
 
 # App Store applications
-appstore 425264550 Blackmagic Disk Speed Test (3.0)
+appstore 425264550 Blackmagic Disk Speed Test (3.1)
 appstore 682658836 GarageBand (10.1.6)
 appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000012000)
