@@ -41,6 +41,7 @@ cask sqlpro-for-sqlite
 cask sublime-text
 cask the-unarchiver
 cask tripmode
+cask vagrant
 cask veertu-desktop
 cask virtualbox-extension-pack
 cask virtualbox
@@ -133,6 +134,7 @@ brew sqlite
 brew texi2html
 brew tmux
 brew tree
+brew vagrant-completion
 brew w3m
 brew wget
 brew x264
