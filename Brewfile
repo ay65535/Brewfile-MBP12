@@ -121,6 +121,7 @@ brew mkvtoolnix
 brew mpfr
 brew nmap
 brew openssl
+brew openssl@1.1
 brew opus
 brew pcre
 brew pcre2
