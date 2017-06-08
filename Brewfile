@@ -55,7 +55,6 @@ cask font-source-han-code-jp
 tap caskroom/versions
 cask android-studio-canary
 cask camtwist-beta
-cask firefoxdeveloperedition
 cask google-chrome-canary
 cask iterm2-nightly
 cask microsoft-remote-desktop-beta
@@ -153,9 +152,12 @@ brew brew-file
 
 tap sanemat/font
 
+# Cask applications
+cask firefoxdeveloperedition
+
 # App Store applications
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
-appstore 682658836 GarageBand (10.1.6)
+appstore 682658836 GarageBand (10.2.0)
 appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000012000)
 appstore 539883307 LINE (5.1.1)
@@ -165,4 +167,4 @@ appstore 568494494 Pocket (1.6.2)
 appstore 485812721 TweetDeck (3.9.889)
 appstore 409789998 Twitter (4.3.2)
 appstore 645249778 Twitter Scripter (1.01)
-appstore 497799835 Xcode (8.3.2)
+appstore 497799835 Xcode (8.3.3)
