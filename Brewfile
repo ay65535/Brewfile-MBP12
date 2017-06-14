@@ -55,6 +55,7 @@ cask font-source-han-code-jp
 tap caskroom/versions
 cask android-studio-canary
 cask camtwist-beta
+cask firefoxdeveloperedition
 cask google-chrome-canary
 cask iterm2-nightly
 cask microsoft-remote-desktop-beta
@@ -151,9 +152,6 @@ tap rcmdnk/file
 brew brew-file
 
 tap sanemat/font
-
-# Cask applications
-cask firefoxdeveloperedition
 
 # App Store applications
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
