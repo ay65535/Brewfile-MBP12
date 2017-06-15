@@ -96,6 +96,7 @@ brew gnu-sed
 brew go
 brew gobject-introspection
 brew gpac
+brew graphite2
 brew harfbuzz
 brew htop-osx
 brew hub
