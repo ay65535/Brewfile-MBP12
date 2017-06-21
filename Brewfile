@@ -120,6 +120,7 @@ brew mas
 brew media-info
 brew mkvtoolnix
 brew mpfr
+brew nkf
 brew nmap
 brew openssl
 brew openssl@1.1
@@ -160,7 +161,7 @@ appstore 682658836 GarageBand (10.2.0)
 appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000012000)
 appstore 539883307 LINE (5.1.1)
-appstore 715768417 Microsoft Remote Desktop (8.0.27287)
+appstore 715768417 Microsoft Remote Desktop (8.0.27310)
 appstore 823766827 OneDrive (17.3.6798)
 appstore 568494494 Pocket (1.6.2)
 appstore 485812721 TweetDeck (3.9.889)
