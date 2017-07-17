@@ -17,7 +17,6 @@ cask dupscanub
 cask evernote
 cask github-desktop
 cask google-chrome
-cask google-drive
 cask google-japanese-ime
 cask launchcontrol
 cask libreoffice-language-pack
@@ -28,7 +27,6 @@ cask mesasqlite
 cask mplayer-osx-extended
 cask mplayerx
 cask musescore
-cask picasa
 cask qlstephen
 cask shupapan
 cask skitch
@@ -155,9 +153,16 @@ brew brew-file
 
 tap sanemat/font
 
+# Cask applications
+cask google-drive
+cask picasa
+
 # App Store applications
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
 appstore 682658836 GarageBand (10.2.0)
+appstore 1209167288 Install macOS High Sierra Beta (13.0.40)
+appstore 1127487414 Install macOS Sierra (12.5.03)
+appstore 1127487414 Install macOS Sierra (12.5.03)
 appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000012002)
 appstore 539883307 LINE (5.2.2)
