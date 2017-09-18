@@ -20,8 +20,10 @@ brew youtube-dl
 brew python
 brew tmux
 brew pcre2
+brew git-lfs
 brew libmagic
 brew libvorbis
+brew git-flow --HEAD
 brew colordiff
 brew pkg-config
 brew cairo
@@ -124,6 +126,7 @@ cask virtualbox
 cask vlc
 cask skype
 cask appcleaner
+cask amazon-drive
 cask cocoapacketanalyzer
 cask bbedit
 cask dupscanub
