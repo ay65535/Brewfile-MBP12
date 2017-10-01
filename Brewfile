@@ -18,6 +18,7 @@ brew pixman
 brew freetype
 brew youtube-dl
 brew python
+brew bash-completion
 brew tmux
 brew pcre2
 brew git-lfs
@@ -172,9 +173,9 @@ appstore 407066957 iVolume (3.7.5)
 appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000012003)
 appstore 539883307 LINE (5.3.3)
-appstore 715768417 Microsoft Remote Desktop (8.0.27319)
+appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 823766827 OneDrive (17.3.6967)
-appstore 568494494 Pocket (1.6.2)
+appstore 568494494 Pocket (1.6.4)
 appstore 485812721 TweetDeck (3.9.889)
 appstore 409789998 Twitter (4.3.2)
 appstore 645249778 Twitter Scripter (1.01)
