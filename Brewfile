@@ -152,7 +152,6 @@ cask sqlitemanager
 cask google-chrome
 cask shupapan
 cask google-japanese-ime
-cask sqlitebrowser
 cask mplayer-osx-extended
 cask mediainfo
 cask sourcetree
@@ -165,6 +164,7 @@ brew brew-file
 # Cask applications
 cask google-drive
 cask picasa
+cask sqlitebrowser
 
 # App Store applications
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
@@ -175,7 +175,7 @@ appstore 411213048 LadioCast (000012003)
 appstore 539883307 LINE (5.3.3)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 823766827 OneDrive (17.3.6967)
-appstore 568494494 Pocket (1.6.4)
+appstore 568494494 Pocket (1.6.6)
 appstore 485812721 TweetDeck (3.9.889)
 appstore 409789998 Twitter (4.3.2)
 appstore 645249778 Twitter Scripter (1.01)
