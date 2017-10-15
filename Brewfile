@@ -38,7 +38,7 @@ brew gobject-introspection
 brew gpac
 brew graphite2
 brew harfbuzz
-brew htop-osx
+brew htop
 brew hub
 brew icu4c
 brew imagemagick
