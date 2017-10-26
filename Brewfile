@@ -97,9 +97,7 @@ brew zsh-completions
 tap homebrew/bundle
 
 tap caskroom/cask
-cask veertu-desktop
 cask atom
-cask github-desktop
 cask xld
 cask soundflower
 cask mesasqlite
@@ -147,7 +145,6 @@ cask font-consolas-for-powerline
 
 tap caskroom/versions
 cask webkit-nightly
-cask android-studio-canary
 cask iterm2-nightly
 cask microsoft-remote-desktop-beta
 cask firefoxdeveloperedition
@@ -162,9 +159,12 @@ brew brew-file
 tap sanemat/font
 
 # Cask applications
+cask android-studio-canary
+cask github-desktop
 cask google-drive
 cask picasa
 cask sqlitebrowser
+cask veertu-desktop
 
 # App Store applications
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
