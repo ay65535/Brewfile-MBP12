@@ -2,10 +2,21 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew afsctool
+brew autoconf
+brew bash-completion
+brew brew-cask-completion
+brew ghq
+brew git-lfs
 brew libevent
+brew libiconv
 brew mas
 brew openssl
+brew pkg-config
+brew rbenv
+brew readline
 brew rsync
+brew ruby-build
 brew tmux
 
 tap homebrew/bundle
