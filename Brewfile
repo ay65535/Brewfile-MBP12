@@ -34,7 +34,9 @@ cask mesasqlite
 cask macwinzipper
 cask launchcontrol
 cask air-video-server-hd
+cask nndd
 cask virtualbox
+cask adobe-air
 cask vlc
 cask skype
 cask appcleaner
@@ -86,7 +88,7 @@ appstore 411213048 LadioCast (000012003)
 appstore 539883307 LINE (5.5.2)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 823766827 OneDrive (17.3.7294)
-appstore 568494494 Pocket (1.7)
+appstore 568494494 Pocket (1.7.1)
 appstore 485812721 TweetDeck (3.9.889)
 appstore 409789998 Twitter (4.3.2)
 appstore 645249778 Twitter Scripter (1.01)
