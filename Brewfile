@@ -14,6 +14,7 @@ brew libiconv
 brew libidn2
 brew libunistring
 brew mas
+brew nkf
 brew openssl
 brew pkg-config
 brew rbenv
@@ -54,16 +55,19 @@ cask sqlpro-for-sqlite
 cask clipy
 cask musescore
 cask virtualbox-extension-pack
+cask webstorm
 cask sublime-text
 cask 1password
 cask qlstephen
 cask tripmode
 cask sqlitemanager
+cask veertu
 cask google-chrome
 cask shupapan
 cask google-japanese-ime
 cask mplayer-osx-extended
 cask mediainfo
+cask rubymine
 cask sourcetree
 cask bathyscaphe
 cask skitch
@@ -73,6 +77,8 @@ cask font-source-han-code-jp
 cask font-consolas-for-powerline
 
 tap caskroom/versions
+cask safari-technology-preview
+cask firefox-developer-edition
 
 tap rcmdnk/file
 brew brew-file
@@ -85,7 +91,7 @@ appstore 682658836 GarageBand (10.2.0)
 appstore 407066957 iVolume (3.7.5)
 appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000012003)
-appstore 539883307 LINE (5.5.2)
+appstore 539883307 LINE (5.6.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 823766827 OneDrive (17.3.7294)
 appstore 568494494 Pocket (1.7.1)
