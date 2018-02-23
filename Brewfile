@@ -42,6 +42,7 @@ cask vlc
 cask skype
 cask appcleaner
 cask amazon-drive
+cask onedrive
 cask bbedit
 cask dupscanub
 cask evernote
