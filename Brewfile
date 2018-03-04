@@ -6,14 +6,19 @@ brew afsctool
 brew autoconf
 brew bash-completion
 brew brew-cask-completion
+brew ffmpeg
+brew gawk
 brew gettext
 brew ghq
 brew git-lfs
+brew gmp
+brew lame
 brew libevent
 brew libiconv
 brew libidn2
 brew libunistring
 brew mas
+brew mpfr
 brew nkf
 brew openssl
 brew pkg-config
@@ -23,6 +28,8 @@ brew rsync
 brew ruby-build
 brew tmux
 brew wget
+brew x264
+brew xvid
 brew youtube-dl
 
 tap homebrew/bundle
