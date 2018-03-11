@@ -6,13 +6,18 @@ brew afsctool
 brew autoconf
 brew bash-completion
 brew brew-cask-completion
+brew coreutils
 brew ffmpeg
+brew fzf
+brew fzy
 brew gawk
 brew gettext
 brew ghq
 brew git-lfs
 brew gmp
+brew grep
 brew lame
+brew lesspipe --with-syntax-highlighting
 brew libevent
 brew libiconv
 brew libidn2
@@ -21,6 +26,8 @@ brew mas
 brew mpfr
 brew nkf
 brew openssl
+brew pcre
+brew peco
 brew pkg-config
 brew rbenv
 brew readline
@@ -31,6 +38,7 @@ brew wget
 brew x264
 brew xvid
 brew youtube-dl
+brew zsh --without-etcdir --with-unicode9
 
 tap homebrew/bundle
 
@@ -85,6 +93,7 @@ cask font-source-han-code-jp
 cask font-consolas-for-powerline
 
 tap caskroom/versions
+cask docker-edge
 cask safari-technology-preview
 cask firefox-developer-edition
 
