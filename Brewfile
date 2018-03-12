@@ -33,6 +33,7 @@ brew rbenv
 brew readline
 brew rsync
 brew ruby-build
+brew shfmt
 brew tmux
 brew wget
 brew x264
@@ -94,6 +95,7 @@ cask font-consolas-for-powerline
 
 tap caskroom/versions
 cask docker-edge
+cask visual-studio-code-insiders
 cask safari-technology-preview
 cask firefox-developer-edition
 
@@ -109,7 +111,7 @@ appstore 682658836 GarageBand (10.2.0)
 appstore 407066957 iVolume (3.7.5)
 appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000012003)
-appstore 539883307 LINE (5.6.0)
+appstore 539883307 LINE (5.6.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 823766827 OneDrive (17.005.0107)
 appstore 568494494 Pocket (1.7.1)
