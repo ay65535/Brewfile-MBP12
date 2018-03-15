@@ -13,6 +13,7 @@ brew fzy
 brew gawk
 brew gettext
 brew ghq
+brew git-flow
 brew git-lfs
 brew gmp
 brew grep
