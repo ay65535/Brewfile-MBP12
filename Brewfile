@@ -4,6 +4,7 @@
 tap homebrew/core
 brew afsctool
 brew autoconf
+brew bash
 brew bash-completion
 brew brew-cask-completion
 brew coreutils
@@ -16,6 +17,7 @@ brew ghq
 brew git-flow
 brew git-lfs
 brew gmp
+brew gnu-sed
 brew grep
 brew lame
 brew lesspipe --with-syntax-highlighting
@@ -35,10 +37,12 @@ brew readline
 brew rsync
 brew ruby-build
 brew shfmt
+brew the_silver_searcher
 brew tmux
 brew wget
 brew x264
 brew xvid
+brew xz
 brew youtube-dl
 brew zsh --without-etcdir --with-unicode9
 
@@ -109,9 +113,10 @@ tap sanemat/font
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
 appstore 688211836 EasyRes (1.1.1)
 appstore 682658836 GarageBand (10.2.0)
+appstore 0 Install macOS High Sierra (13.3.02)
 appstore 407066957 iVolume (3.7.5)
 appstore 896624060 Kobito (2.3.8)
-appstore 411213048 LadioCast (000012003)
+appstore 411213048 LadioCast (000012004)
 appstore 539883307 LINE (5.6.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 823766827 OneDrive (17.005.0107)
