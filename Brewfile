@@ -12,6 +12,7 @@ brew ffmpeg
 brew fzf
 brew fzy
 brew gawk
+brew gdbm
 brew gettext
 brew ghq
 brew git-flow
@@ -113,7 +114,6 @@ tap sanemat/font
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
 appstore 688211836 EasyRes (1.1.1)
 appstore 682658836 GarageBand (10.2.0)
-appstore 0 Install macOS High Sierra (13.3.02)
 appstore 407066957 iVolume (3.7.5)
 appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000012004)
