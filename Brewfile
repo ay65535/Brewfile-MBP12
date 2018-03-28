@@ -112,6 +112,7 @@ cask font-source-han-code-jp
 tap caskroom/versions
 cask docker-edge
 cask firefox-developer-edition
+cask iterm2-nightly
 cask safari-technology-preview
 cask visual-studio-code-insiders
 
