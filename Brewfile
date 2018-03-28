@@ -6,19 +6,21 @@ brew afsctool
 brew autoconf
 brew bash
 brew bash-completion
+brew boost
 brew brew-cask-completion
 brew coreutils
 brew ffmpeg
 brew fzf
-brew fzy
 brew gawk
 brew gdbm
 brew gettext
 brew ghq
+brew git
 brew git-flow
 brew git-lfs
 brew gmp
 brew gnu-sed
+brew gpac --with-ffmpeg
 brew grep
 brew lame
 brew lesspipe --with-syntax-highlighting
@@ -26,20 +28,28 @@ brew libevent
 brew libiconv
 brew libidn2
 brew libunistring
+brew libyaml
 brew mas
+brew media-info
 brew mpfr
 brew nkf
 brew openssl
 brew pcre
 brew peco
+brew perl
 brew pkg-config
+brew python
 brew rbenv
 brew readline
 brew rsync
+brew ruby
 brew ruby-build
 brew shfmt
+brew source-highlight
+brew sqlite
 brew the_silver_searcher
 brew tmux
+brew vim
 brew wget
 brew x264
 brew xvid
@@ -119,7 +129,7 @@ appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000012004)
 appstore 539883307 LINE (5.6.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
-appstore 823766827 OneDrive (17.005.0107)
+appstore 823766827 OneDrive (18.025.0204)
 appstore 568494494 Pocket (1.7.1)
 appstore 485812721 TweetDeck (3.9.889)
 appstore 409789998 Twitter (4.3.2)
