@@ -109,6 +109,8 @@ tap caskroom/fonts
 cask font-consolas-for-powerline
 cask font-source-han-code-jp
 
+tap caskroom/fonts
+
 tap caskroom/versions
 cask docker-edge
 cask firefox-developer-edition
@@ -116,10 +118,20 @@ cask iterm2-nightly
 cask safari-technology-preview
 cask visual-studio-code-insiders
 
+tap burntsushi/ripgrep
+
+tap https://github.com/BurntSushi/ripgrep.git
+
+tap mscharley/homebrew
+
 tap rcmdnk/file
 brew brew-file
 
 tap sanemat/font
+brew ricty --with-powerline
+
+# Other Homebrew packages
+brew ripgrep-bin
 
 # App Store applications
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
