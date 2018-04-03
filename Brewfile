@@ -8,8 +8,14 @@ brew bash
 brew bash-completion
 brew boost
 brew brew-cask-completion
+brew cairo
+brew cmake
 brew coreutils
 brew ffmpeg
+brew fontconfig
+brew fontforge
+brew freetype
+brew fribidi
 brew fzf
 brew gawk
 brew gdbm
@@ -18,15 +24,25 @@ brew ghq
 brew git
 brew git-flow
 brew git-lfs
+brew glib
 brew gmp
 brew gnu-sed
+brew gobject-introspection
 brew gpac --with-ffmpeg
+brew graphite2
 brew grep
+brew harfbuzz
+brew icu4c
+brew jpeg
 brew lame
 brew lesspipe --with-syntax-highlighting
 brew libevent
+brew libffi
 brew libiconv
 brew libidn2
+brew libpng
+brew libtiff
+brew libtool
 brew libunistring
 brew libyaml
 brew mas
@@ -34,9 +50,11 @@ brew media-info
 brew mpfr
 brew nkf
 brew openssl
+brew pango
 brew pcre
 brew peco
 brew perl
+brew pixman
 brew pkg-config
 brew python
 brew rbenv
@@ -109,8 +127,6 @@ tap caskroom/fonts
 cask font-consolas-for-powerline
 cask font-source-han-code-jp
 
-tap caskroom/fonts
-
 tap caskroom/versions
 cask docker-edge
 cask firefox-developer-edition
@@ -120,9 +136,8 @@ cask visual-studio-code-insiders
 
 tap burntsushi/ripgrep
 
-tap https://github.com/BurntSushi/ripgrep.git
-
 tap mscharley/homebrew
+brew alacritty --HEAD
 
 tap rcmdnk/file
 brew brew-file
@@ -140,11 +155,11 @@ appstore 682658836 GarageBand (10.2.0)
 appstore 407066957 iVolume (3.7.5)
 appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000012004)
-appstore 539883307 LINE (5.6.1)
+appstore 539883307 LINE (5.7.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 823766827 OneDrive (18.025.0204)
 appstore 568494494 Pocket (1.7.1)
 appstore 485812721 TweetDeck (3.9.889)
 appstore 409789998 Twitter (4.3.2)
 appstore 645249778 Twitter Scripter (1.01)
-appstore 497799835 Xcode (9.2)
+appstore 497799835 Xcode (9.3)
