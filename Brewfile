@@ -30,6 +30,7 @@ brew shfmt
 brew source-highlight
 brew the_silver_searcher
 brew tmux
+brew tree
 brew vim
 brew wget
 brew youtube-dl
