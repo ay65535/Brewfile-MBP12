@@ -106,6 +106,9 @@ brew brew-file
 tap sanemat/font
 brew ricty --with-powerline
 
+tap thoughtbot/formulae
+brew rcm
+
 # Other Homebrew packages
 brew ripgrep-bin
 
