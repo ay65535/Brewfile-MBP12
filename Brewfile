@@ -55,6 +55,7 @@ brew perl
 brew pixman
 brew pkg-config
 brew python
+brew python@2
 brew rbenv
 brew readline
 brew rsync
@@ -72,7 +73,7 @@ brew x264
 brew xvid
 brew xz
 brew youtube-dl
-brew zsh --without-etcdir --with-unicode9
+brew zsh --without-etcdir --with-unicode9 --HEAD
 
 tap homebrew/bundle
 
