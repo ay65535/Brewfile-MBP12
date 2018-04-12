@@ -48,6 +48,7 @@ brew mas
 brew media-info
 brew mpfr
 brew nkf
+brew nmap
 brew openssl
 brew pango
 brew pcre
