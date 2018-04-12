@@ -25,6 +25,7 @@ brew git-lfs
 brew glib
 brew gmp
 brew gnu-sed
+brew go
 brew gobject-introspection
 brew gpac --with-ffmpeg
 brew graphite2
@@ -161,7 +162,7 @@ appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000012004)
 appstore 539883307 LINE (5.7.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
-appstore 823766827 OneDrive (18.025.0204)
+appstore 823766827 OneDrive (18.044.0301)
 appstore 568494494 Pocket (1.7.1)
 appstore 485812721 TweetDeck (3.9.889)
 appstore 409789998 Twitter (4.3.2)
