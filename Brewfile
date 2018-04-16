@@ -9,6 +9,7 @@ brew bash-completion
 brew boost
 brew brew-cask-completion
 brew cairo
+brew cmake
 brew coreutils
 brew ffmpeg
 brew fontconfig
