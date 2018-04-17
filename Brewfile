@@ -95,6 +95,7 @@ cask cooviewer
 cask coteditor
 cask dupscanub
 cask evernote
+cask gitkraken
 cask goland
 cask google-chrome
 cask google-japanese-ime
