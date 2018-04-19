@@ -9,9 +9,15 @@ brew bash-completion
 brew boost
 brew brew-cask-completion
 brew cairo
+brew clang-format
 brew cmake
+brew colordiff
 brew coreutils
+brew cppcheck
+brew ctags
+brew diffutils
 brew ffmpeg
+brew findutils
 brew fontconfig
 brew freetype
 brew fribidi
@@ -24,16 +30,22 @@ brew git
 brew git-flow
 brew git-lfs
 brew glib
+brew global
 brew gmp
 brew gnu-sed
+brew gnu-tar
 brew go
 brew gobject-introspection
 brew gpac --with-ffmpeg
 brew graphite2
 brew grep
+brew groff
+brew gzip
 brew harfbuzz
 brew icu4c
+brew jemalloc
 brew jpeg
+brew jq
 brew lame
 brew lesspipe --with-syntax-highlighting
 brew libevent
@@ -41,18 +53,26 @@ brew libffi
 brew libiconv
 brew libidn2
 brew libpng
+brew libtermkey
 brew libtiff
 brew libtool
 brew libunistring
+brew libuv
+brew libvterm
 brew libyaml
+brew libzip
 brew luajit
 brew mas
 brew media-info
 brew mpfr
+brew msgpack
+brew neovim
 brew nkf
 brew nmap
+brew oniguruma
 brew openssl
 brew pango
+brew parallel
 brew pcre
 brew peco
 brew perl
@@ -71,6 +91,7 @@ brew sqlite
 brew the_silver_searcher
 brew tmux
 brew tree
+brew unibilium
 brew vim
 brew wget
 brew x264
@@ -80,6 +101,8 @@ brew youtube-dl
 brew zsh --without-etcdir --with-unicode9 --HEAD
 
 tap homebrew/bundle
+
+tap homebrew/services
 
 tap caskroom/cask
 cask 1password
