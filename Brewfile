@@ -45,6 +45,7 @@ brew libtiff
 brew libtool
 brew libunistring
 brew libyaml
+brew luajit
 brew mas
 brew media-info
 brew mpfr
@@ -166,7 +167,7 @@ appstore 411213048 LadioCast (000012004)
 appstore 539883307 LINE (5.7.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 823766827 OneDrive (18.044.0301)
-appstore 568494494 Pocket (1.7.2)
+appstore 568494494 Pocket (1.7.3)
 appstore 485812721 TweetDeck (3.9.889)
 appstore 409789998 Twitter (4.3.2)
 appstore 645249778 Twitter Scripter (1.01)
