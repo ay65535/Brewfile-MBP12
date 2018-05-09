@@ -127,6 +127,7 @@ cask launchcontrol
 cask macwinzipper
 cask mediainfo
 cask mesasqlite
+cask minecraft
 cask mplayer-osx-extended
 cask mplayerx
 cask musescore
