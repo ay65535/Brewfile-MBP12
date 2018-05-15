@@ -167,7 +167,6 @@ cask visual-studio-code-insiders
 tap burntsushi/ripgrep
 
 tap mscharley/homebrew
-brew alacritty --HEAD
 
 tap rcmdnk/file
 brew brew-file
