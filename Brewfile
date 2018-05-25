@@ -110,7 +110,6 @@ cask adobe-air
 cask air-video-server-hd
 cask amazon-drive
 cask appcleaner
-cask atom
 cask backuploupe
 cask bathyscaphe
 cask bbedit
@@ -120,7 +119,6 @@ cask coteditor
 cask dupscanub
 cask evernote
 cask gitkraken
-cask goland
 cask google-chrome
 cask google-japanese-ime
 cask launchcontrol
@@ -134,7 +132,6 @@ cask musescore
 cask nndd
 cask onedrive
 cask qlstephen
-cask rubymine
 cask shupapan
 cask skitch
 cask skype
@@ -149,8 +146,8 @@ cask vagrant
 cask veertu
 cask virtualbox
 cask virtualbox-extension-pack
+cask visual-studio
 cask vlc
-cask webstorm
 cask xld
 
 tap caskroom/fonts
@@ -158,6 +155,7 @@ cask font-consolas-for-powerline
 cask font-source-han-code-jp
 
 tap caskroom/versions
+cask atom-beta
 cask docker-edge
 cask firefox-developer-edition
 cask iterm2-nightly
