@@ -105,62 +105,10 @@ tap homebrew/bundle
 tap homebrew/services
 
 tap caskroom/cask
-cask 1password
-cask adobe-air
-cask air-video-server-hd
-cask amazon-drive
-cask appcleaner
-cask backuploupe
-cask bathyscaphe
-cask bbedit
-cask clipy
-cask cooviewer
-cask coteditor
-cask dupscanub
-cask evernote
-cask gitkraken
-cask google-chrome
-cask google-japanese-ime
-cask launchcontrol
-cask macwinzipper
-cask mediainfo
-cask mesasqlite
-cask minecraft
-cask mplayer-osx-extended
-cask mplayerx
-cask musescore
-cask nndd
-cask onedrive
-cask qlstephen
-cask shupapan
-cask skitch
-cask skype
-cask soundflower
-cask sourcetree
-cask sqlitemanager
-cask sqlpro-for-sqlite
-cask sublime-text
-cask the-unarchiver
-cask tripmode
-cask vagrant
-cask veertu
-cask virtualbox
-cask virtualbox-extension-pack
-cask visual-studio
-cask vlc
-cask xld
 
 tap caskroom/fonts
-cask font-consolas-for-powerline
-cask font-source-han-code-jp
 
 tap caskroom/versions
-cask atom-beta
-cask docker-edge
-cask firefox-developer-edition
-cask iterm2-nightly
-cask safari-technology-preview
-cask visual-studio-code-insiders
 
 tap burntsushi/ripgrep
 
@@ -177,6 +125,60 @@ brew rcm
 
 # Other Homebrew packages
 brew ripgrep-bin
+
+# Other Cask applications
+cask 1password
+cask adobe-air
+cask air-video-server-hd
+cask amazon-drive
+cask appcleaner
+cask atom-beta
+cask backuploupe
+cask bathyscaphe
+cask bbedit
+cask clipy
+cask cooviewer
+cask coteditor
+cask docker-edge
+cask dupscanub
+cask evernote
+cask firefox-developer-edition
+cask font-consolas-for-powerline
+cask font-source-han-code-jp
+cask gitkraken
+cask google-chrome
+cask google-japanese-ime
+cask iterm2-nightly
+cask launchcontrol
+cask macwinzipper
+cask mediainfo
+cask mesasqlite
+cask minecraft
+cask mplayer-osx-extended
+cask mplayerx
+cask musescore
+cask nndd
+cask onedrive
+cask qlstephen
+cask safari-technology-preview
+cask shupapan
+cask skitch
+cask skype
+cask soundflower
+cask sourcetree
+cask sqlitemanager
+cask sqlpro-for-sqlite
+cask sublime-text
+cask the-unarchiver
+cask tripmode
+cask vagrant
+cask veertu
+cask virtualbox
+cask virtualbox-extension-pack
+cask visual-studio
+cask visual-studio-code-insiders
+cask vlc
+cask xld
 
 # App Store applications
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
