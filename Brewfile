@@ -153,6 +153,7 @@ cask launchcontrol
 cask macwinzipper
 cask mediainfo
 cask mesasqlite
+cask microsoft-remote-desktop-beta
 cask minecraft
 cask mplayer-osx-extended
 cask mplayerx
