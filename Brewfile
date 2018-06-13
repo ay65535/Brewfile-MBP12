@@ -104,13 +104,13 @@ tap homebrew/bundle
 
 tap homebrew/services
 
+tap burntsushi/ripgrep
+
 tap caskroom/cask
 
 tap caskroom/fonts
 
 tap caskroom/versions
-
-tap burntsushi/ripgrep
 
 tap mscharley/homebrew
 
@@ -186,7 +186,6 @@ appstore 425264550 Blackmagic Disk Speed Test (3.1)
 appstore 688211836 EasyRes (1.1.1)
 appstore 682658836 GarageBand (10.2.0)
 appstore 407066957 iVolume (3.7.5)
-appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000012004)
 appstore 539883307 LINE (5.7.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
