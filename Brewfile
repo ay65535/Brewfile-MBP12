@@ -4,6 +4,7 @@
 tap homebrew/core
 brew afsctool
 brew autoconf
+brew automake
 brew bash
 brew bash-completion
 brew boost
@@ -35,7 +36,6 @@ brew gmp
 brew gnu-sed
 brew gnu-tar
 brew go
-brew gobject-introspection
 brew gpac --with-ffmpeg
 brew graphite2
 brew grep
@@ -78,21 +78,16 @@ brew peco
 brew perl
 brew pixman
 brew pkg-config
-brew python
-brew python@2
-brew rbenv
 brew readline
 brew rsync
-brew ruby
-brew ruby-build
 brew shfmt
 brew source-highlight
+brew sphinx-doc
 brew sqlite
 brew the_silver_searcher
 brew tmux
 brew tree
 brew unibilium
-brew vim
 brew wget
 brew x264
 brew xvid
@@ -102,20 +97,50 @@ brew zsh --without-etcdir --with-unicode9 --HEAD
 
 tap homebrew/bundle
 
+tap homebrew/cask-fonts
+cask font-consolas-for-powerline
+
+tap homebrew/cask-versions
+cask atom-beta
+cask firefox-developer-edition
+cask iterm2-nightly
+cask microsoft-remote-desktop-beta
+cask visual-studio-code-insiders
+
 tap homebrew/services
 
+tap homebrew/cask
+cask 1password
+cask air-video-server-hd
+cask appcleaner
+cask bathyscaphe
+cask clipy
+cask coteditor
+cask evernote
+cask gitkraken
+cask google-japanese-ime
+cask launchcontrol
+cask macwinzipper
+cask mesasqlite
+cask mono-mdk
+cask mplayerx
+cask nndd
+cask onedrive
+cask shupapan
+cask skype
+cask sourcetree
+cask sqlpro-for-sqlite
+cask the-unarchiver
+cask vagrant
+cask virtualbox-extension-pack
+cask vlc
+
 tap burntsushi/ripgrep
-
-tap caskroom/cask
-
-tap caskroom/fonts
-
-tap caskroom/versions
 
 tap mscharley/homebrew
 
 tap rcmdnk/file
-brew brew-file
+brew brew-file --HEAD
 
 tap sanemat/font
 brew ricty --with-powerline
@@ -127,71 +152,43 @@ brew rcm
 brew ripgrep-bin
 
 # Other Cask applications
-cask 1password
 cask adobe-air
-cask air-video-server-hd
 cask amazon-drive
-cask appcleaner
-cask atom-beta
 cask backuploupe
-cask bathyscaphe
 cask bbedit
-cask clipy
 cask cooviewer
-cask coteditor
-cask docker-edge
 cask dupscanub
-cask evernote
-cask firefox-developer-edition
-cask font-consolas-for-powerline
 cask font-source-han-code-jp
-cask gitkraken
 cask google-chrome
-cask google-japanese-ime
-cask iterm2-nightly
-cask launchcontrol
-cask macwinzipper
+cask grandperspective
+cask launchpad-manager-yosemite
 cask mediainfo
-cask mesasqlite
-cask microsoft-remote-desktop-beta
 cask minecraft
 cask mplayer-osx-extended
-cask mplayerx
 cask musescore
-cask nndd
-cask onedrive
+cask omnidisksweeper
 cask qlstephen
-cask safari-technology-preview
-cask shupapan
 cask skitch
-cask skype
 cask soundflower
-cask sourcetree
 cask sqlitemanager
-cask sqlpro-for-sqlite
 cask sublime-text
-cask the-unarchiver
 cask tripmode
-cask vagrant
 cask veertu
-cask virtualbox
-cask virtualbox-extension-pack
 cask visual-studio
-cask visual-studio-code-insiders
-cask vlc
 cask xld
 
 # App Store applications
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
 appstore 688211836 EasyRes (1.1.1)
-appstore 682658836 GarageBand (10.2.0)
+appstore 682658836 GarageBand (10.3.1)
 appstore 407066957 iVolume (3.7.5)
+appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000012004)
-appstore 539883307 LINE (5.7.0)
+appstore 539883307 LINE (5.8.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
-appstore 823766827 OneDrive (18.065.0329)
-appstore 568494494 Pocket (1.7.8)
+appstore 823766827 OneDrive (18.091.0506)
+appstore 568494494 Pocket (1.7.9)
 appstore 485812721 TweetDeck (3.9.889)
 appstore 409789998 Twitter (4.3.2)
 appstore 645249778 Twitter Scripter (1.01)
-appstore 497799835 Xcode (9.3.1)
+appstore 497799835 Xcode (9.4.1)
