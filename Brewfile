@@ -17,6 +17,7 @@ brew coreutils
 brew cppcheck
 brew ctags
 brew diffutils
+brew docker-machine --HEAD
 brew ffmpeg
 brew findutils
 brew fontconfig
@@ -75,7 +76,6 @@ brew pango
 brew parallel
 brew pcre
 brew peco
-brew perl
 brew pixman
 brew pkg-config
 brew readline
