@@ -16,8 +16,10 @@ brew colordiff
 brew coreutils
 brew cppcheck
 brew ctags
+brew diff-so-fancy
 brew diffutils
-brew docker-machine --HEAD
+brew docker
+brew docker-machine
 brew ffmpeg
 brew findutils
 brew fontconfig
@@ -42,7 +44,6 @@ brew graphite2
 brew grep
 brew groff
 brew gzip
-brew harfbuzz
 brew icu4c
 brew jemalloc
 brew jpeg
@@ -72,7 +73,6 @@ brew nkf
 brew nmap
 brew oniguruma
 brew openssl
-brew pango
 brew parallel
 brew pcre
 brew peco
@@ -102,6 +102,7 @@ cask font-consolas-for-powerline
 
 tap homebrew/cask-versions
 cask atom-beta
+cask docker-edge
 cask firefox-developer-edition
 cask iterm2-nightly
 cask microsoft-remote-desktop-beta
@@ -132,8 +133,8 @@ cask sourcetree
 cask sqlpro-for-sqlite
 cask the-unarchiver
 cask vagrant
-cask virtualbox-extension-pack
-cask vlc
+cask visual-studio
+cask xld
 
 tap burntsushi/ripgrep
 
@@ -174,8 +175,7 @@ cask sqlitemanager
 cask sublime-text
 cask tripmode
 cask veertu
-cask visual-studio
-cask xld
+cask vlc
 
 # App Store applications
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
